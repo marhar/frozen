@@ -1,7 +1,9 @@
 # frozen
 Frozen DuckLake Demo
 
-Run this command to see the serverless Frozen Ducklake demo hosted on GitHub:
+https://ducklake.select/2025/10/24/frozen-ducklake
+
+Try the serverless Frozen Ducklake hosted on GitHub:
 ```
 duckdb ducklake:https://raw.githubusercontent.com/marhar/frozen/main/space.ducklake
 ```
